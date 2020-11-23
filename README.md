@@ -1,0 +1,2 @@
+# vimuc
+the vim config
